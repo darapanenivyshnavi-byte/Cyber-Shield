@@ -3,7 +3,8 @@
 A single-page, client-side web application that teaches everyday users (students, employees, families) to recognize phishing, social-engineering, and fraud attempts through interactive investigation cases, security checklists, practical tools, and an AI-style practice arena.
 
 **Live demo:** _add your deployed URL here after Step 7 below_
-**Screenshots:** see [`/screenshots`](./screenshots)
+**Screenshots:** see <img width="1510" height="730" alt="image" src="https://github.com/user-attachments/assets/ab3f55d2-5226-43c4-8d4e-3478f64fece9" />
+
 
 ---
 
